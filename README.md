@@ -4,14 +4,14 @@ Full-Stack Developer | AI Engineer | Competitive Programmer
 
 Building scalable web apps and AI systems. LeetCode Knight (1980+, top 5%).
 
-**Currently:** Full-Stack Intern at [Cybrense](https://cybrense.com) | 3rd year CS @ IIITDM Kurnool
+**Currently:** Founder & Associate Intern at [RizeOS](https://rizeos.com) | 4th year CS @ IIITDM Kurnool
 
 ---
 
 ### What I Do
 
 - 🚀 Build production systems (handled 1,000+ concurrent users)
-- 🏆 Solve algorithmic problems (750+ on LeetCode)
+- 🏆 Solve algorithmic problems (850+ on LeetCode)
 - 🤖 Develop AI/ML applications (LLMs, XGBoost, CNNs)
 - 💻 Full-stack web development (React, Node.js, PostgreSQL)
 
