@@ -11,7 +11,7 @@ Building scalable web apps and AI systems. LeetCode Knight (1980+, top 5%).
 ### What I Do
 
 - 🚀 Build production systems (handled 1,000+ concurrent users)
-- 🏆 Solve algorithmic problems (850+ on LeetCode)
+- 🏆 Solve algorithmic problems (1000+ on LeetCode)
 - 🤖 Develop AI/ML applications (LLMs, XGBoost, CNNs)
 - 💻 Full-stack web development (React, Node.js, PostgreSQL)
 
@@ -41,7 +41,7 @@ Building scalable web apps and AI systems. LeetCode Knight (1980+, top 5%).
 
 ### Competitive Programming
 
-🏅 **LeetCode:** Knight | 1980 rating | Top 5% | [Profile](https://leetcode.com/u/DeusVerma/)
+🏅 **LeetCode:** Knight | 1992 rating | Top 5% | [Profile](https://leetcode.com/u/DeusVerma/)
 
 ⭐ **CodeChef:** 3-Star | 1703 rating | [Profile](https://www.codechef.com/users/deus_verma)
 
